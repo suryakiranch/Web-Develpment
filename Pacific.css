@@ -1,0 +1,60 @@
+body{
+    background-color: #FFFFFF;
+    text-decoration-color: #666666;
+    font-family: sans-serif;
+    background-image: url(background.jpg);
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+header{
+    background-color: #000033;
+    text-decoration-color: #FFFFFF;
+    font-family: sans-serif;
+     background-image: url("sunset.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+h1{
+    padding-left: 20px;
+    height: 72px;
+    margin-bottom: 0;
+    line-height: 200%;
+}
+nav{
+    font-weight: bold;
+    background-color: #90C7E3;
+    padding: 5px;
+    
+}
+h2{
+    text-decoration-color: #3399CC;
+    font-family: sans-serif;
+}
+dt{
+    text-decoration-color: #000033;
+    font-weight: bold;
+}
+.resort{
+    text-decoration-color: #000033;
+    font-size: 1.2em;
+}
+footer{
+    font-size: .70em;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
+wrapper{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffffff;
+    min-width: 700px;
+    max-width: 1024px;
+    box-shadow: 10px 10px #FFFFFF;
+}
+h3{
+    text-decoration-color: #000033;
+}
